@@ -1,2 +1,2 @@
 # netflix-auth-app
-Proyecto de práctica para PWP
+Proyecto de práctica
